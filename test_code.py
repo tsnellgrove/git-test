@@ -13,3 +13,5 @@
 # Attempt 3 from VS Code
 
 # got the update from VS Code into iPad!! Key seems to be to *pull* (not fetch) from within Working Copy
+
+# VS Code: Got iPad update, attempting to push back VS Code update 2
