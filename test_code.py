@@ -11,3 +11,5 @@
 # Attempt 2 to update from Mac / VS Code
 
 # Attempt 3 from VS Code
+
+# got the update from VS Code into iPad!! Key seems to be to *pull* (not fetch) from within Working Copy
