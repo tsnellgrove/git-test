@@ -5,4 +5,7 @@
 
 # Git repo is now cloned in VS Code - next is pull test
 
+# apparently the VS code updates didn't come through - got to github - but then got reversed by iPad Working Copy
+# idea key steps on VS Code commit: 1. Save, 2. Stage, 3. Commit Message, 4. Commit, 5. Push
+
 
