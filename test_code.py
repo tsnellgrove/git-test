@@ -15,3 +15,5 @@
 # got the update from VS Code into iPad!! Key seems to be to *pull* (not fetch) from within Working Copy
 
 # VS Code: Got iPad update, attempting to push back VS Code update 2
+
+# Mon, Nov 14, 2022 updat from iPad
